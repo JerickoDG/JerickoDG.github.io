@@ -1664,16 +1664,16 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-.course-container {
-	display: flex;
-	align-items: center;
-}
-	
-	.course-container img {
-	max-width: 100px;
-	height: auto;
-}
-	
-	.course-container div {
-	margin-left: 20px; /* Add spacing between image and text */
-}
+	.course-container {
+		display: flex;
+		align-items: center;
+	}
+		
+		.course-container img {
+		max-width: 100px;
+		height: auto;
+	}
+		
+		.course-container div {
+		margin-left: 20px; /* Add spacing between image and text */
+	}
