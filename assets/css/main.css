@@ -1669,9 +1669,10 @@ input, select, textarea {
 		align-items: center;
 	}
 		
-		.course-container img {
-		max-width: 100px;
+	.course-container img {
+		max-width: 200px;
 		height: auto;
+		border-radius: 20px;
 	}
 		
 		.course-container div {
